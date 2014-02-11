@@ -1,3 +1,14 @@
+Purpose
+A replica of a human brain. After teaching it to read, I want it to be able to scan textbooks, internet, etc to learn as humans do. I want it to read scientific papers for me and summarize them. For example, google scholars is shitty. If I ask it to make me a database of the wavefunctions of various type 2 superconductors and organize them by material category and critical temperature, it should be able to do so and detect a trend as wolfram alpha does.
+
+Components
+1. Teach it grammar. Teach it how to create new concepts.
+2. Download a dictionary.
+3. Test run it by making it scan documents to organize and update grandmother cells.
+4. Make it scan programming books so it becomes a program that can program. It should be able to scan grammar books and program itself to adjust for changes in grammar over time. 
+5. Make it scan math books to create wolfram alpha like results. Edit the program so that it learns to create new data by connecting various grandmother cells.
+
+
 module Main where
 import Database.HDBC.ODBC
 import Database.HDBC
