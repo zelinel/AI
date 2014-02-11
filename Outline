@@ -136,16 +136,20 @@ ex) Write me a program in python that lets me play rock paper scissors.
     rock > scissor > paper > rock
     if symbol1 = symbol2 then tie
     
-New word. For example, water. Statistical gathering of certain sounds 33wa@a
+New word. Statistical gathering of certain sounds.
 
 Statistics vs Connections
 Connecting cell A to B. Options:
 1. A X B
 2. A Y Z B
 Shortest way is A X B.
+Ex) How are yaks related to tea?
+Yak, butter, tea - two degrees of separation.
+Yak, animal, life, plant, tea - four degrees of separation.
+Yak butter tea is the most likely relation.
 
 Statistics:
 Count associations of AB, AX, AY, AZ, AC, etc and the cell with highest count association with A is most likely.
 ex) AB 10, AX 2, AY 4, AZ 1, AC 8. AB is highest use therefore it must be AB.
 But is this the same thing as connections because the more counts there are, the more hashtag connections are likely to be made?
-,
+
