@@ -10,7 +10,9 @@ Components
 4. Make it scan programming books so it becomes a program that can program. It should be able to scan grammar books and program itself to adjust for changes in grammar over time. 
 5. Make it scan math books to create wolfram alpha like results. Edit the program so that it learns to create new data by connecting various grandmother cells.
 
+Citations
 
+http://www.nature.com/nature/journal/v435/n7045/full/nature03687.html
 module Main where
 import Database.HDBC.ODBC
 import Database.HDBC
