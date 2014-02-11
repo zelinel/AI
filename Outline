@@ -2,6 +2,7 @@ I don't like that github is making me pay to have my data private. Can I do this
 
 Purpose
 A replica of a human brain. After teaching it to read, I want it to be able to scan textbooks, internet, etc to learn as humans do. I want it to read scientific papers for me and summarize them. For example, google scholars is shitty. If I ask it to make me a database of the wavefunctions of various type 2 superconductors and organize them by material category and critical temperature, it should be able to do so and detect a trend as wolfram alpha does.
+Human language as a programming language.
 
 Components
 1. Teach it grammar. Teach it how to create new concepts.
