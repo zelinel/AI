@@ -5,11 +5,12 @@ A replica of a human brain. After teaching it to read, I want it to be able to s
 Human language as a programming language. Every word is a hashtag. Audio, smell, other senses are hash tagged with words.
 
 Components
-1. Teach it grammar. Teach it how to create new concepts.
+1. Teach it grammar. Teach it how to create new concepts. Everything it learns must be stored. If it is new and unpredictable, it is a new entry in hashtag databases. If it is old, add to statistics to reinforce predictive abilities.
 2. Download a dictionary.
 3. Test run it by making it scan documents to organize and update grandmother cells.
 4. Make it scan programming books so it becomes a program that can program. It should be able to program itself to adjust for changes in grammar over time. Is this consciousness?
 5. Make it scan math books to create wolfram alpha like results. Edit the program so that it learns to create new data by connecting various grandmother cells. Or make it scan logic textbooks.
+6. Because the database is so huge, future computers may be centralized in Antarctica, accessed over the internet.
 
 Citations
 http://arxiv.org/pdf/1112.6209.pdf&embedded=true
